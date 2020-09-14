@@ -121,5 +121,26 @@ This is a Model which is created for game design and which is a low poly as well
 </p>
 
 
+# 3. Skin Dress Shoe
+This is a Model which is created for game design and which is a low poly as well.
+
+# Software Specification
+1. Autodesk Maya (For creating the base mesh).
+2. Z brush (For Creating the High Poly).
+3. Marmoset ToolBag
+4. Substance Painter. (For Texturing the mesh)
+5. Unity
+
+# Pictures
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93061326-da819080-f68c-11ea-96b6-a50c60ca311a.JPG" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93061331-dbb2bd80-f68c-11ea-8809-c29624f3bb60.png" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93061333-dc4b5400-f68c-11ea-8cc8-482a934effb1.png" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93061335-dce3ea80-f68c-11ea-9acb-a7a0b7f7d6fe.png" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93061340-dd7c8100-f68c-11ea-94e1-63d0fb1a2843.png" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93061344-de151780-f68c-11ea-8068-d44ccc05035c.png" width="800" height="700" />
+</p>
+
 
 
