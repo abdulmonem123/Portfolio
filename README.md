@@ -1,7 +1,7 @@
 # Portfolio
-3d Models that i created So far
+3d Models that i created So far,they are as follow:
 
-# Dagger
+# 1.Dagger
 This Model is created for game design,which is a low poly.
 
 # Software Specification
