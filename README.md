@@ -31,3 +31,16 @@ This Model is created for game design,which is a low poly.
 </p>
 
 
+# 2.Ben
+This is human Model which is created for game design and which is a low poly as well.
+
+# Software Specification
+1. Autodesk Maya (For creating the base mesh).
+2. Z brush (For Creating the High Poly).
+3. Marmoset ToolBag
+4. Substance Painter. (For Texturing the mesh)
+5. Unity
+
+# Pictures
+
+
