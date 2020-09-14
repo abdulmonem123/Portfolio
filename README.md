@@ -32,7 +32,7 @@ This Model is created for game design,which is a low poly.
 
 
 # 2.Ben
-This is human Model which is created for game design and which is a low poly as well.
+This is a human Model which is created for game design and which is a low poly as well.
 
 # Software Specification
 1. Autodesk Maya (For creating the base mesh).
@@ -66,6 +66,38 @@ This is human Model which is created for game design and which is a low poly as 
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68784974/93058627-1155a780-f689-11ea-8027-6a7a258a3c38.png" width="800" height="700" />
+</p>
+
+
+# 3.Pant
+This is a Model which is created for game design and which is a low poly as well.
+
+# Software Specification
+1. Autodesk Maya (For creating the base mesh).
+2. Z brush (For Creating the High Poly).
+3. Marmoset ToolBag
+4. Substance Painter. (For Texturing the mesh)
+5. Unity
+
+# Pictures
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93059141-bff9e800-f689-11ea-84a4-eb985f96dde7.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93059149-c25c4200-f689-11ea-9c19-3103dcc9a8dd.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93059150-c2f4d880-f689-11ea-8383-e2cbebcc45ad.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93059153-c38d6f00-f689-11ea-9831-91cf179de79d.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93059157-c4be9c00-f689-11ea-9dff-1d036af687fb.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93059147-c1c3ab80-f689-11ea-8dd2-44b910392bf1.JPG" width="800" height="700" />
 </p>
 
 
