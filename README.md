@@ -43,4 +43,29 @@ This is human Model which is created for game design and which is a low poly as 
 
 # Pictures
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058596-0a2e9980-f689-11ea-98d3-c89b01913cca.JPG" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058603-0b5fc680-f689-11ea-88eb-9a1a22bae07f.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058604-0bf85d00-f689-11ea-968f-4e9f40797a39.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058605-0c90f380-f689-11ea-9154-56a42a63c980.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058614-0ef34d80-f689-11ea-952a-59a47e85f29e.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058622-10247a80-f689-11ea-9f59-1490b71fd988.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058625-10bd1100-f689-11ea-9aa3-7ef8e94b747d.png" width="800" height="700" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93058627-1155a780-f689-11ea-8027-6a7a258a3c38.png" width="800" height="700" />
+</p>
+
 
