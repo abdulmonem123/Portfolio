@@ -101,3 +101,25 @@ This is a Model which is created for game design and which is a low poly as well
 </p>
 
 
+# 3.Black Dress Shoe
+This is a Model which is created for game design and which is a low poly as well.
+
+# Software Specification
+1. Autodesk Maya (For creating the base mesh).
+2. Z brush (For Creating the High Poly).
+3. Marmoset ToolBag
+4. Substance Painter. (For Texturing the mesh)
+5. Unity
+
+# Pictures
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68784974/93059875-ca68b180-f68a-11ea-8e12-c953909c1910.png" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93059884-cc327500-f68a-11ea-95ea-25c3f3d11c1e.png" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93059889-cccb0b80-f68a-11ea-8a7d-787ff8c8a1ec.png" width="800" height="700" />
+<img src="https://user-images.githubusercontent.com/68784974/93059897-ce94cf00-f68a-11ea-9314-acbf338601a4.png" width="800" height="700" />
+</p>
+
+
+
+
