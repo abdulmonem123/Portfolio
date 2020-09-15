@@ -1,5 +1,5 @@
 # ProjectFiles
-Note that these files are onliy exe. files so run it, if it does not run then install unity first.
+ These files are only exe. files so run it, if it does not run then install unity first.
 Link:
 https://drive.google.com/drive/folders/1_BvwDR-iMpUdrPgs-3nM2ARN39jgbGcq?usp=sharing
 
